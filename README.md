@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thevindu Perera.
-- 👀 I’m interested in agriculture technology and mobile app development.
+- 👀 I’m interested in business data analysis, agriculture technology and web development.
 
 <!---
 thevinduperera/thevinduperera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
